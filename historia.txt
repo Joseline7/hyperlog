@@ -1,3 +1,6 @@
-hola joseline 
-es el primer dia cual es tu apellido
+usuario: hola joseline 
+edad: tengo 27 años, nací en Ecuador 
+vivo en Lima
+es el primer dia 
+cual es tu apellido
 redondo a la derecha
