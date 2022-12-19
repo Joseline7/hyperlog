@@ -1,0 +1,14 @@
+[1mdiff --git a/blogpost.html b/blogpost.html[m
+[1mindex 6aca546..8bf8c00 100644[m
+[1m--- a/blogpost.html[m
+[1m+++ b/blogpost.html[m
+[36m@@ -2,8 +2,7 @@[m
+ <html>[m
+     <head>[m
+         <title>El titulo del post</title>[m
+[31m-        <link rel="stylesheet" href="css[m
+[31m-        /estilos.css" />[m
+[32m+[m[32m        <link rel="stylesheet" href="css/estilos.css" />[m
+     </head>[m
+     <body>[m
+         <div id="container">[m

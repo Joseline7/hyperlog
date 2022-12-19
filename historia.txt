@@ -3,4 +3,4 @@ edad: tengo 27 años, nací en Ecuador
 vivo en Lima
 es el primer dia 
 cual es tu apellido
-redondo a la derecha
+¿como te llamas y cual es tu edad?
