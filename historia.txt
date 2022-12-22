@@ -5,3 +5,7 @@ es el primer dia
 cual es tu apellido
 ¿como te llamas y cual es tu edad?
 "la historia de mi vida"
+
+
+usuario: Daniel Eduardo
+edad: tengo 30 años, nací en Arequipa 
